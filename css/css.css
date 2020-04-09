@@ -1,0 +1,18 @@
+
+body{
+    margin: 0px;
+    background-image: url(/img/2.jpg);
+}
+.sky img{
+    width: 1500px;
+    display: block;
+    margin-left: 5px;
+}
+
+header{
+    margin-top: 20px;
+}
+
+.nav-link{
+    font-size: ;
+}
